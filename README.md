@@ -2,7 +2,7 @@
 
 ## Download
 
- * [CDN copies](https://cdn.jsdelivr.net/gh/qoyie/chain.js) [![jsDelivr Hits](https://data.jsdelivr.com/v1/package/gh/qoyie/chain.js/badge)](https://www.jsdelivr.com/package/gh/qoyie/chain.js)
+ * [CDN copies](https://cdn.jsdelivr.net/gh/qoyie/chain.js/chain.js) [![jsDelivr Hits](https://data.jsdelivr.com/v1/package/gh/qoyie/chain.js/badge)](https://www.jsdelivr.com/package/gh/qoyie/chain.js)
 
 ## Installation
 
