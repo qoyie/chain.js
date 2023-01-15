@@ -25,13 +25,13 @@ $ gh repo clone qoyie/chain.js
 In Node.js:
 ```js
 // Load the full build.
-var chain = require('chain-cjs.js');
+var chain = require('./chain-cjs.js');
 // Load the lite build.
-var chain = require('chain-cjs.lite.js');
+var chain = require('./chain-cjs.lite.js');
 
 // ES6 module
-import chain from 'chain-mjs.js';
-import chain from 'chain-mjs.lite.js';
+import chain from './chain-mjs.js';
+import chain from './chain-mjs.lite.js';
 ```
 
 ## Why chain.js?
