@@ -135,4 +135,4 @@
     }
   }
   window.chain=chain;
-})()
+}();
